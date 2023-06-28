@@ -13,16 +13,20 @@
 <img align="right" src="./assets/illustration.png" width="290"/>
 
 # 💫 About Me:
-:school: I am a `Junior` AI college student on Mexico<br>
+:school: I am a **Junior** AI college student on Mexico.<br>
 :star: I'm a developer working on my own personal projects related to AI.<br>
-:brain::up: Currently, I am deepening my knowledge in Computer Vision Algorithms.<br>
-:nerd_face: I’m continuously learning and improving my skills in the field of Machine Learning.<br>
+:brain: Currently, I am deepening my knowledge in Computer Vision Algorithms.<br>
+:nerd_face: Continuously learning and improving my skills in the field of Machine Learning.<br>
 :briefcase: If you’re interested in collaborating or discussing AI-related projects, feel free to reach out to me.
 
-## Contact me:
-📧 E-mail: jonathan.cruzesparza@outlook.com
-
+<details close>
+  <summary><h2>📨Contact me:</h2></summary>
+  <p>
+      📧 E-mail: jonathan.cruzesparza@outlook.com
+  </p>
 * [![Discord Badge](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]() [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100009501942189) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathan-cruz-esparza-436a40208/) 
+  
+</details>
 
 <!-- RGB Separator border line -->
 <img  src="./assets/rainbow_separator.gif" alt="Separator" width="900px">
