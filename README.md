@@ -58,13 +58,13 @@
       <div style="display: flex;">
         <!-- Programming Languages badges -->
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-        <img src="https://img.shields.io/badge/🔥%20Mojo-%2301324D.svg?style=for-the-badge" alt="Mojo">
+        <!-- <img src="https://img.shields.io/badge/🔥%20Mojo-%2301324D.svg?style=for-the-badge" alt="Mojo"> -->
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-        <img src="https://img.shields.io/badge/r-%23276C9F.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
         <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
         <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-        <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+        <img src="https://img.shields.io/badge/r-%23276C9F.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
         <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
+        <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
       </div>
     </td>
     <td colspan="2">
@@ -82,11 +82,11 @@
         <div>
           <!-- Deep Learning Techs badges -->
           <h4>Deep Learning</h4>
-          <img src="https://img.shields.io/badge/NLP-%2307397A.svg?style=for-the-badge&logo=natural-language-processing&logoColor=white" alt="NLP">
-          <img src="https://img.shields.io/badge/RNN's-%23b89300.svg?style=for-the-badge&logo=recurrent-neural-networks&logoColor=white" alt="RNNs">
-          <img src="https://img.shields.io/badge/CNN's-%23EB4034.svg?style=for-the-badge&logo=convolutional-neural-networks&logoColor=white" alt="CNNs">
-          <img src="https://img.shields.io/badge/GAN's-%23FF6F00.svg?style=for-the-badge&logo=generative-adversarial-networks&logoColor=white" alt="GANs">
-          <img src="https://img.shields.io/badge/Transformers-%235F17D4.svg?style=for-the-badge&logo=transformers&logoColor=white" alt="Transformers">
+          <img src="https://img.shields.io/badge/NLP-%2307397A.svg?style=for-the-badge" alt="Natural Language Processing">
+          <img src="https://img.shields.io/badge/RNN's-%2332a11f.svg?style=for-the-badge" alt="Recurrent Neuronal Networks">
+          <img src="https://img.shields.io/badge/CNN's-%23F02645.svg?style=for-the-badge" alt="Convolutional Neural Networks">
+          <img src="https://img.shields.io/badge/GAN's-%23FF6F00.svg?style=for-the-badge" alt="Generative Adversarial Networks">
+          <img src="https://img.shields.io/badge/Transformers-%235F17D4.svg?style=for-the-badge" alt="Transformers">
         </div>
       </div>
     </td>
@@ -94,13 +94,16 @@
       <div style="display: flex;">
         <!-- Dev Tools badges -->
         <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
+        <img src="https://img.shields.io/badge/PyCharm-%236C1960.svg?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
         <img src="https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows OS">
+        <img src="https://img.shields.io/badge/Linux-F8D4FA?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+        <img src="https://img.shields.io/badge/Windows-3232C9?style=for-the-badge&logo=windows&logoColor=white" alt="Windows OS">
         <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
         <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
         <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-        <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
-        <img src="https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+        <img src="https://img.shields.io/badge/Azure-%230072F0.svg?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure">
+        <img src="https://img.shields.io/badge/Google%20Cloud-%23F02645.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+        <img src="https://img.shields.io/badge/AWS-%23FF872B.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Web Services">
         <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
       </div>
     </td>
@@ -115,6 +118,7 @@
         <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
         <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects">
         <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop">
+        <img src="https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
       </div>
     </td>
   </tr>
