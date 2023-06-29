@@ -28,14 +28,11 @@
     📧 E-mail: <a href="mailto:jonathan.cruzesparza@outlook.com">jonathan.cruzesparza@outlook.com</a>
   </p>
   <a href="https://discordapp.com/users/180138956145295360">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord Badge">
-  </a>
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord Badge"></a>
   <a href="https://facebook.com/profile.php?id=100009501942189">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook Badge">
-  </a>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook Badge"></a>
   <a href="https://linkedin.com/in/jonathan-cruz-esparza-436a40208/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
 
 
@@ -121,11 +118,25 @@
 </details>
 
 
+
 <!-- RGB Separator border line -->
 <img  src="./assets/rainbow_separator.gif" alt="Separator" width="900px">
 
-# 📊 GitHub Stats:
 
+
+<details open>
+<summary><h1>📊 GitHub Stats:</h1></summary>
+
+<!-- Stats Streak -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=JonathanCruze&hide_border=true&border_radius=25&date_format=j%20M%5B%20Y%5D&card_width=390&background=1F2430&ring=FF7700&sideNums=F5F5F7&fire=4B6FED&currStreakNum=F5F5F7&currStreakLabel=F5F5F7&stroke=4B6FED&sideLabels=F5F5F7&dates=B2B2B2&hide_total_contributions=true"/>
+  <source media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com?user=JonathanCruze&hide_border=true&border_radius=25&date_format=j%20M%5B%20Y%5D&card_width=350&background=FFFFFF&sideNums=1D1D1F&fire=FF7700&currStreakNum=1D1D1F&currStreakLabel=1D1D1F&stroke=4B6FED&sideLabels=1D1D1F&dates=4B6FED&ring=4B6FED&hide_total_contributions=true"/>
+  <img alt="github stats card" src="https://streak-stats.demolab.com/?user=JonathanCruze"/>
+</picture>
+
+<!-- Stats GitHub Info -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-stats.vercel.app/api?username=JonathanCruze&border_radius=25&ring_color=FF7700&text_color=F5F5F7&bg_color=1F2430&hide_border=true&hide_title=true&rank_icon=github&show_icons=true&hide=issues,contribs"/>
@@ -134,16 +145,11 @@
   <img alt="github stats card" src="https://github-readme-stats.vercel.app/api?username=JonathanCruze"/>
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com?user=JonathanCruze&hide_border=true&border_radius=25&locale=es&date_format=j%20M%5B%20Y%5D&card_width=350&background=1F2430&ring=FF7700&sideNums=F5F5F7&fire=4B6FED&currStreakNum=F5F5F7&currStreakLabel=F5F5F7&stroke=4B6FED&sideLabels=F5F5F7&dates=FF7700&excludeDaysLabel=EB5454&hide_total_contributions=true"/>
-  <source media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com/?user=JonathanCruze"/>
-  <img alt="github stats card" src="https://streak-stats.demolab.com/?user=JonathanCruze"/>
-</picture>
-
+<!-- Snake Repo Gif -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JonathanCruze/JonathanCruze/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JonathanCruze/JonathanCruze/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JonathanCruze/JonathanCruze/output/github-contribution-grid-snake.svg">
 </picture>
+
+</details>
