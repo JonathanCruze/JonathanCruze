@@ -49,12 +49,12 @@
 <table>
   <tr>
     <th>Programming Languages</th>
-    <th colspan="2">Machine / Deep Learning</th>
+    <th colspan="3" style="vertical-align: top;">Machine / Deep Learning Technologies</th>
     <th>Dev Tools</th>
     <th>Other Tools</th>
   </tr>
   <tr>
-    <td>
+    <td valign="middle" align="center">
       <div style="display: flex;">
         <!-- Programming Languages badges -->
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -67,56 +67,53 @@
         <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
       </div>
     </td>
-    <td colspan="2">
-      <div style="display: flex; flex-direction: column;">
-        <div>
-          <!-- Machine Learning badges -->
-          <h4>Frameworks</h4>
+   <td colspan="2" valign="top" align="center">
+        <div style="display: flex;">
+          <!-- Frameworks badges -->
+          <h2>Frameworks</h2>
           <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
           <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
           <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
           <img src="https://img.shields.io/badge/OPENCV-%235C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV">
         </div>
-        <div>
-          <!-- Deep Learning Techs badges -->
-          <h4>Techniques</h4>
+        </td>
+        <td valign="top" align="center">
+        <div style="display: flex;">
+          <!-- Architectures badges -->
+          <h2>Architectures</h2>
           <img src="https://img.shields.io/badge/NLP-%2307397A.svg?style=for-the-badge" alt="Natural Language Processing">
           <img src="https://img.shields.io/badge/RNN's-%2332a11f.svg?style=for-the-badge" alt="Recurrent Neuronal Networks">
           <img src="https://img.shields.io/badge/CNN's-%23F02645.svg?style=for-the-badge" alt="Convolutional Neural Networks">
           <img src="https://img.shields.io/badge/GAN's-%23FF6F00.svg?style=for-the-badge" alt="Generative Adversarial Networks">
           <img src="https://img.shields.io/badge/Transformers-%235F17D4.svg?style=for-the-badge" alt="Transformers">
         </div>
-      </div>
     </td>
-    <td>
+    <td valign="middle" align="center">
       <div style="display: flex;">
         <!-- Dev Tools badges -->
         <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
         <img src="https://img.shields.io/badge/PyCharm-%236C1960.svg?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+        <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
         <img src="https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
         <img src="https://img.shields.io/badge/Linux-F8D4FA?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
         <img src="https://img.shields.io/badge/Windows-3232C9?style=for-the-badge&logo=windows&logoColor=white" alt="Windows OS">
         <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
         <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
         <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-        <img src="https://img.shields.io/badge/Azure-%230072F0.svg?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure">
-        <img src="https://img.shields.io/badge/Google%20Cloud-%23F02645.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
         <img src="https://img.shields.io/badge/AWS-%23FF872B.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Web Services">
-        <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+        <img src="https://img.shields.io/badge/Azure-%230072F0.svg?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure">
       </div>
     </td>
-    <td>
+    <td valign="middle" align="center">
       <div style="display: flex;">
         <!-- Other tools badges -->
         <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
-        <img src="https://img.shields.io/badge/unreal-%2320232A.svg?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="UNREAL">
         <img src="https://img.shields.io/badge/UNITY-%23366273.svg?style=for-the-badge&logo=unity&logoColor=white" alt="UNITY">
+        <img src="https://img.shields.io/badge/unreal-%2320232A.svg?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="UNREAL">
+        <img src="https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
         <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
         <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
         <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects">
-        <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop">
-        <img src="https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
       </div>
     </td>
   </tr>
