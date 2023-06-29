@@ -49,7 +49,7 @@
 <table>
   <tr>
     <th>Programming Languages</th>
-    <th colspan="2">AI Development Tools</th>
+    <th colspan="2">Machine / Deep Learning</th>
     <th>Dev Tools</th>
     <th>Other Tools</th>
   </tr>
@@ -71,17 +71,15 @@
       <div style="display: flex; flex-direction: column;">
         <div>
           <!-- Machine Learning badges -->
-          <h4>Machine Learning</h4>
-          <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-          <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV">
+          <h4>Frameworks</h4>
+          <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
           <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
           <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
-          <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-          <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
+          <img src="https://img.shields.io/badge/OPENCV-%235C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV">
         </div>
         <div>
           <!-- Deep Learning Techs badges -->
-          <h4>Deep Learning</h4>
+          <h4>Techniques</h4>
           <img src="https://img.shields.io/badge/NLP-%2307397A.svg?style=for-the-badge" alt="Natural Language Processing">
           <img src="https://img.shields.io/badge/RNN's-%2332a11f.svg?style=for-the-badge" alt="Recurrent Neuronal Networks">
           <img src="https://img.shields.io/badge/CNN's-%23F02645.svg?style=for-the-badge" alt="Convolutional Neural Networks">
