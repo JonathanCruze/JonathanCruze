@@ -125,8 +125,22 @@
 <img  src="./assets/rainbow_separator.gif" alt="Separator" width="900px">
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=JonathanCruze&theme=nord&hide_border=true)<br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=JonathanCruze&border_radius=25&ring_color=FF7700&text_color=F5F5F7&bg_color=1F2430&hide_border=true&hide_title=true&rank_icon=github&show_icons=true&hide=issues,contribs"/>
+  <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=JonathanCruze&border_radius=25&text_color=1D1D1F&hide_border=true&hide_title=true&rank_icon=github&show_icons=true&hide=issues,contribs"/>
+  <img alt="github stats card" src="https://github-readme-stats.vercel.app/api?username=JonathanCruze"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=JonathanCruze&hide_border=true&border_radius=25&locale=es&date_format=j%20M%5B%20Y%5D&card_width=350&background=1F2430&ring=FF7700&sideNums=F5F5F7&fire=4B6FED&currStreakNum=F5F5F7&currStreakLabel=F5F5F7&stroke=4B6FED&sideLabels=F5F5F7&dates=FF7700&excludeDaysLabel=EB5454&hide_total_contributions=true"/>
+  <source media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com/?user=JonathanCruze"/>
+  <img alt="github stats card" src="https://streak-stats.demolab.com/?user=JonathanCruze"/>
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JonathanCruze/JonathanCruze/output/github-contribution-grid-snake-dark.svg">
