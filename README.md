@@ -8,8 +8,8 @@
 <!-- Language Selector -->
 <table align="right">
     <tr><th align="left">Language:</th>
-    <tr><td><a href="https://github.com/JonathanCruze/JonathanCruze/tree/main"><img src="./assets/usa-icon.png" alt="US flag" width="17px"> English</a></td></tr>
-    <tr><td><a href="https://github.com/JonathanCruze/JonathanCruze/blob/main/README.es.md"><img src="./assets/mex-icon.png" alt="Mexico flag" width="17px"> Español</a></td></tr>
+    <tr><td><a href="https://github.com/JonathanCruze/JonathanCruze/blob/main/README.md"><img src="./assets/usa-icon.png" alt="US flag" width="15px"> English</a></td></tr>
+    <tr><td><a href="https://github.com/JonathanCruze/JonathanCruze/blob/main/README.es.md"><img src="./assets/mex-icon.png" alt="Mexico flag" width="15px"> Español</a></td></tr>
 </table>
 
 <!-- Image at the side -->
@@ -73,6 +73,7 @@
                     <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
                     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
                     <img src="https://img.shields.io/badge/OPENCV-%235C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV">
+                    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
                 </div>
             </td>
             <td valign="middle" align="center">
@@ -86,7 +87,6 @@
                     <img src="https://img.shields.io/badge/Windows-3232C9?style=for-the-badge&logo=windows&logoColor=white" alt="Windows OS">
                     <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
                     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-                    <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
                     <img src="https://img.shields.io/badge/Azure-%230072F0.svg?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure">
                 </div>
             </td>
